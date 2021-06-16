@@ -1,0 +1,61 @@
+.b-image{
+    background-color: rgb(243, 227, 207);
+
+}
+
+.my-card{
+    border: 0cm;
+    
+}
+.my-card-footer{
+    background-color: white;
+    border: 0cm;
+    
+
+}
+.my-container img{
+    height: 80px;
+
+
+}
+.my-slide{
+    background-color:#fceae8 ;
+    border-radius: 3mm;
+}
+
+.my-button{
+    background-color: tomato;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+
+}
+.b-color{
+    background-color: rgb(179, 176, 177) ;
+}
+
+.my-img-size{
+    width: 300px; 
+    height: 280px;
+
+}
+
+.my-radius{
+
+    border-radius: 3.5%;
+    border: none;
+}
+
+.my-img-backround{
+    background-color: rgb(250, 246, 241);
+    height: 400px;
+    border-radius: 4%;
+}
+
+.my-radius1{
+
+    border-radius:  20px;
+    border: none;
+}
